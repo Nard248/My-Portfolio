@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/My-Porfolio/static/css/main.1b079870.css",
-    "main.js": "/My-Porfolio/static/js/main.6f5f4fca.js",
-    "static/media/Avatar_N.svg": "/My-Porfolio/static/media/Avatar_N.6ac67826e667cb063de8c74562765841.svg",
-    "static/media/me.png": "/My-Porfolio/static/media/me.adb68fd0c5d61cdb3dea.png",
-    "static/media/site-bg.jpg": "/My-Porfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
-    "static/media/services.png": "/My-Porfolio/static/media/services.8e66d4fbbd95de45b8db.png",
-    "static/media/ComputerVision.jpg": "/My-Porfolio/static/media/ComputerVision.8455fdaa0c854911d822.jpg",
-    "static/media/Segmentation.png": "/My-Porfolio/static/media/Segmentation.9ae54aa284d26d5ed602.png",
-    "static/media/Report.png": "/My-Porfolio/static/media/Report.fe96441e4a1ba82f72a4.png",
-    "static/media/Narek_1.svg": "/My-Porfolio/static/media/Narek_1.db0f347a04bc1bce942465358d4607e7.svg",
-    "index.html": "/My-Porfolio/index.html",
-    "main.1b079870.css.map": "/My-Porfolio/static/css/main.1b079870.css.map",
-    "main.6f5f4fca.js.map": "/My-Porfolio/static/js/main.6f5f4fca.js.map"
+    "main.css": "/portfolio/static/css/main.c3a9e7d6.css",
+    "main.js": "/portfolio/static/js/main.1bff1cbc.js",
+    "static/media/Avatar_N.svg": "/portfolio/static/media/Avatar_N.6ac67826e667cb063de8c74562765841.svg",
+    "static/media/me.png": "/portfolio/static/media/me.adb68fd0c5d61cdb3dea.png",
+    "static/media/site-bg.jpg": "/portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/services.png": "/portfolio/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/ComputerVision.jpg": "/portfolio/static/media/ComputerVision.8455fdaa0c854911d822.jpg",
+    "static/media/Segmentation.png": "/portfolio/static/media/Segmentation.9ae54aa284d26d5ed602.png",
+    "static/media/Report.png": "/portfolio/static/media/Report.fe96441e4a1ba82f72a4.png",
+    "static/media/Narek_1.svg": "/portfolio/static/media/Narek_1.db0f347a04bc1bce942465358d4607e7.svg",
+    "index.html": "/portfolio/index.html",
+    "main.c3a9e7d6.css.map": "/portfolio/static/css/main.c3a9e7d6.css.map",
+    "main.1bff1cbc.js.map": "/portfolio/static/js/main.1bff1cbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b079870.css",
-    "static/js/main.6f5f4fca.js"
+    "static/css/main.c3a9e7d6.css",
+    "static/js/main.1bff1cbc.js"
   ]
 }
